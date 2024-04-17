@@ -7,10 +7,11 @@ $(document).ready(function(){
         }
     });
 
-    //toggle menu/navbar script
+    // Toggle menu/navbar script
     $('.menu-btn').click(function(){
         $('.navbar .menu').toggleClass("active");
         $('.menu-btn i').toggleClass("active");
     });
 
+    // Add your JavaScript code here
 });
